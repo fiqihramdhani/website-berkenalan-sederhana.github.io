@@ -1,0 +1,133 @@
+body {
+	background-color: lightblue;
+	position: relative;
+	
+
+}
+
+
+
+.container-fluid {
+
+	width: 100%;
+}
+
+
+
+.jumbotron { 
+	
+	background-image:url(../image/ijo.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 750px;
+	position: relative;
+	padding-top: 2px;
+	border: 2px solid;
+
+}
+
+.jumbotron h1{
+	margin-bottom: 15px;
+	font-family: Times New Rowman;
+	color: lightblue;
+	text-shadow: 2px 8px 10px black;
+
+}
+
+.jumbotron p{
+	font-family: Times New Rowman;
+	font-size: 1.25em;
+
+	color: lightblue;
+	text-shadow: 2px 8px 10px black;
+	text-align: center;
+
+
+
+}
+
+.jumbotron img {
+	width: 300px;
+	border: 5px solid;
+	margin-bottom: 20px;
+	margin-top: 125px;
+}
+
+hr{
+	
+	width: auto;
+	border-top: 5px solid;
+}
+
+.row p{
+
+	margin-top: 125px;
+	text-align: justify;
+}
+
+.row img{
+ width:100%;
+  margin-top:125px;
+  
+}
+
+
+
+
+
+.about {
+	background-color: lightblue;
+	height: 900px;
+
+}
+
+.about h3{
+	font-family: cursive;
+	border: 2px solid;
+	
+
+}
+
+.about p {
+
+
+}
+
+
+
+
+.Portfolio {
+
+	padding-top: 35px;
+	background-color: #eee;
+	
+
+}
+
+.row a img{
+
+	justify-content: center;
+}
+
+footer {
+  
+	position:static;
+	background-color: black;
+	bottom: 0px;
+	width: 100%;
+	min-height: 90px;
+	margin-top: 75px;
+	margin-bottom: 30px;
+  background-size: cover;
+  
+
+}
+
+footer p{
+	font-size: 1.5em ;
+	color: lightblue;
+	text-align: justify;
+
+}
+
